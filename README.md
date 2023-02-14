@@ -12,9 +12,9 @@
 </div>
 
 <div align="center">
-    💻 work as a junior software developer & analyst at
+    💻 work as a software developer & analyst at
     <b>
-        <a href="http://www.target-technologie.cz/jazyk/zmena/2" style="color: #EF5B0C;">Target Technologie</a>
+        <a href="https://www.target-technologie.cz/" style="color: #EF5B0C;">Target Technologie</a>
     </b>
 </div>
 
