@@ -5,16 +5,16 @@
 <br/>
 
 <div align="center">
-    I 🎓 study computer science at
+    I am a graduate computer science student at
     <b>
-        <a href="https://fit.cvut.cz/en/studies/programs-and-specializations/bachelor/4589-computer-science" style="color: #EF5B0C;">FIT CTU</a>
+        <a href="https://fit.cvut.cz/en" style="color: #EF5B0C;">FIT CTU</a>
     </b> and
 </div>
 
 <div align="center">
-    💻 work as a software developer & analyst at
+    a software developer & analyst at
     <b>
-        <a href="https://www.target-technologie.cz/" style="color: #EF5B0C;">Target Technologie</a>
+        <a href="https://www.target-technologie.cz/en/" style="color: #EF5B0C;">Target Technologie</a>
     </b>
 </div>
 
@@ -46,6 +46,7 @@
         <img style="margin: 15px; height: 50px" src="icons/cplusplus.png" alt="C++" title="C++" />
         <img style="margin: 15px; height: 50px" src="icons/csharp.png" alt="C#" title="C#" />
         <img style="margin: 15px; height: 50px" src="icons/python.png" alt="Python" title="Python" />
+        <img style="margin: 15px; height: 50px" src="icons/scala.png" alt="Scala" title="Scala" />
         <img style="margin: 15px; height: 50px" src="icons/racket.png" alt="Racket" title="Racket" />
         <img style="margin: 15px; height: 50px" src="icons/julia.png" alt="Julia" title="Julia" />
         <img style="margin: 15px; height: 50px" src="icons/bash.svg" alt="Bash" title="Bash" />
